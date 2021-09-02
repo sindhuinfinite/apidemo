@@ -3,70 +3,70 @@
   "data": [
     {
       "id": 1,
-      "image_url" : "",
+      "image_url" : "https://raw.githubusercontent.com/sindhuinfinite/apidemo/main/the_suicide_squad.jpg",
       "title": "The Suicide Squad",
       "date" : "28 Jul 2021",
       "rating": "80%"
     },
     {
       "id": 2,
-      "image_url" : "",
+      "image_url" : "https://raw.githubusercontent.com/sindhuinfinite/apidemo/main/jungle_cruise.jpg",
       "title": "Jungle Cruise",
       "date" : "28 Jul 2021",
       "rating": "79%"
     },
     {
       "id": 3,
-      "image_url" : "",
+      "image_url" : "https://raw.githubusercontent.com/sindhuinfinite/apidemo/main/sweet_girl.jpg",
       "title": "Sweet Girl",
       "date" : "18 Aug 2021",
       "rating": "69%"
     },
     {
       "id": 4,
-      "image_url" : "",
+      "image_url" : "https://raw.githubusercontent.com/sindhuinfinite/apidemo/main/eggs_run.jpg",
       "title": "Eggs Run",
       "date" : "12 Aug 2021",
       "rating": "84%"
     },
     {
       "id": 5,
-      "image_url" : "",
+      "image_url" : "https://raw.githubusercontent.com/sindhuinfinite/apidemo/main/paw_patrol.jpg",
       "title": "PAW Patrol: The Movie",
       "date" : "09 Aug 2021",
       "rating": "81%"
     },
     {
       "id": 6,
-      "image_url" : "",
+      "image_url" : "https://raw.githubusercontent.com/sindhuinfinite/apidemo/main/infinite.jpg",
       "title": "Infinite",
       "date" : "10 Jun 2021",
       "rating": "75%"
     },
     {
       "id": 7,
-      "image_url" : "",
+      "image_url" : "https://raw.githubusercontent.com/sindhuinfinite/apidemo/main/boss_baby.jpg",
       "title": "The Boss Baby: Family Business",
       "date" : "01 Jul 2021",
       "rating": "78%"
     },
     {
       "id": 8,
-      "image_url" : "",
+      "image_url" : "https://raw.githubusercontent.com/sindhuinfinite/apidemo/main/luca.jpg",
       "title": "Luca",
       "date" : "17 Jun 2021",
       "rating": "81%"
     },
     {
       "id": 9,
-      "image_url" : "",
+      "image_url" : "https://raw.githubusercontent.com/sindhuinfinite/apidemo/main/black_island.jpg",
       "title": "Black Island",
       "date" : "18 Aug 2021",
       "rating": "64%"
     },
     {
       "id": 10,
-      "image_url" : "",
+      "image_url" : "https://raw.githubusercontent.com/sindhuinfinite/apidemo/main/dinosaur_hotel.jpg",
       "title": "Dinosaur Hotel",
       "date" : "11 Jun 2021",
       "rating": "53%"
