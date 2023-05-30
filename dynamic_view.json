@@ -1,0 +1,88 @@
+{
+	"config_payload": [{
+		"login_number_screen": [{
+			"binge_logo": {
+				"position": "1",
+				"visibility": true,
+				"click_action": false
+			},
+			"partner_logo_rail": {
+				"position": "2",
+				"visibility": true,
+				"click_action": false
+			},
+			"header_title": {
+				"position": "3",
+				"visibility": true,
+				"click_action": false
+			},
+			"mob_number_view": {
+				"position": "4",
+				"visibility": true,
+				"click_action": false
+			},
+			"license_text": {
+				"position": "5",
+				"visibility": true,
+				"click_action": false
+			},
+			"primary_action_button": {
+				"position": "6",
+				"visibility": true,
+				"click_action": false
+			},
+			"secondary_action_button": {
+				"position": "7",
+				"visibility": true,
+				"click_action": false
+			}
+		}],
+		"login_otp_screen": [{
+			"binge_logo": {
+				"position": "1",
+				"visibility": true,
+				"click_action": false
+			},
+			"partner_logo_rail": {
+				"position": "3",
+				"visibility": true,
+				"click_action": false
+			},
+			"header_title": {
+				"position": "2",
+				"visibility": true,
+				"click_action": false
+			}
+		}],
+		"pi_desc": {
+			"position": "bottom",
+			"visibility": true,
+			"click_action": true
+		},
+		"pi_language": {
+			"position": "right",
+			"visibility": true,
+			"click_action": true
+		},
+		"pi_share_button": {
+			"position": "right",
+			"visibility": true,
+			"click_action": false
+		},
+		"setting_action": {
+			"position": "right",
+			"visibility": true,
+			"click_action": true
+		},
+		"login_action": {
+			"position": "top",
+			"visibility": true,
+			"click_action": false
+		},
+		"home_title": {
+			"position": "right",
+			"visibility": true,
+			"click_action": false
+		}
+	}]
+}
