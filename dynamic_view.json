@@ -8,7 +8,7 @@
 			},
 			{
 				"view_name": "partner_logo_rail",
-				"position": "2",
+				"position": "4",
 				"visibility": true,
 				"click_action": false
 			},
@@ -20,7 +20,7 @@
 			},
 			{
 				"view_name": "mob_number_view",
-				"position": "4",
+				"position": "2",
 				"visibility": true,
 				"click_action": true
 			},
