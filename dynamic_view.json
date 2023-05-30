@@ -14,7 +14,7 @@
 			},
 			{
 				"view_name": "header_title",
-				"position": "3",
+				"position": "5",
 				"visibility": true,
 				"click_action": false
 			},
@@ -26,7 +26,7 @@
 			},
 			{
 				"view_name": "license_text",
-				"position": "5",
+				"position": "3",
 				"visibility": true,
 				"click_action": true
 			},
