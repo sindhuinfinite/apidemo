@@ -45,7 +45,7 @@
 		],
 		"login_otp_screen": [{
 				"view_name": "binge_logo",
-				"position": "1",
+				"position": "3",
 				"visibility": true,
 				"click_action": false
 			},
@@ -57,7 +57,7 @@
 			},
 			{
 				"view_name": "header_title",
-				"position": "3",
+				"position": "1",
 				"visibility": true,
 				"click_action": false
 			}
