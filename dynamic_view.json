@@ -32,13 +32,13 @@
 			},
 			{
 				"view_name": "primary_action_button",
-				"position": "6",
+				"position": "7",
 				"visibility": true,
 				"click_action": true
 			},
 			{
 				"view_name": "secondary_action_button",
-				"position": "7",
+				"position": "6",
 				"visibility": true,
 				"click_action": true
 			}
